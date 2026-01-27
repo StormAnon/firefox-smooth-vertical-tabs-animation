@@ -1,0 +1,28 @@
+#main-window[sidebar-expand-on-hover=""]{
+  #sidebar-main:not([sidebar-launcher-expanded=""]){
+    .tab-label-container{
+      display: flex !important;
+    }
+
+    .tabbrowser-tab{
+      width: 100% !important;
+    }
+
+    &:hover{
+      .tab-background{
+        min-width: 10px !important;
+        width: inherit !important;
+      }
+    }
+
+    &:not(:hover){
+      .tab-text{
+        margin-left: 7.5px !important;
+      }
+    }
+
+    .tab-background{
+      width: inherit !important;
+    }
+  }
+}
