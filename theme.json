@@ -1,6 +1,6 @@
 {
     "id": "firefox-smooth-vertical-tabs-animation",
-    "name": "Firefox Smooth Vertical Tabs Animation",
+    "name": "Smooth Vertical Tabs Animation",
     "description": "Fixes missing animation on unhover",
     "homepage": "https://github.com/StormAnon/firefox-smooth-vertical-tabs-animation",
     "style": "https://github.com/StormAnon/firefox-smooth-vertical-tabs-animation/blob/main/userChrome.css",
